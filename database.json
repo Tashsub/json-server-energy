@@ -1,0 +1,88 @@
+{
+	"sites": [
+		{
+			"id": "gláucia-ryszard",
+			"location": {
+				"lat": 53.5955752,
+				"lng": -1.979958
+			},
+			"name": "Gláucia Ryszard",
+			"schedules": {
+				"now": {
+					"service": "Dispatch",
+					"start": "2022-01-02T17:00:26.573Z",
+					"end": "2022-01-02T18:00:26.573Z"
+				},
+				"next": {
+					"service": "DFFR",
+					"start": "2022-01-02T18:00:26.573Z",
+					"end": "2022-01-02T19:00:26.573Z"
+				}
+			},
+			"size": 50000000,
+			"status": "Good"
+		},
+		{
+			"id": "vasco-morven",
+			"location": {
+				"lat": 53.4723679,
+				"lng": -2.3635442
+			},
+			"name": "Vasco Morven",
+			"schedules": {
+				"now": {
+					"service": "DC Low",
+					"start": "2022-01-02T17:00:26.573Z",
+					"end": "2022-01-02T18:00:26.573Z"
+				},
+				"next": {
+					"service": "Dispatch",
+					"start": "2022-01-02T18:00:26.573Z",
+					"end": "2022-01-02T19:00:26.573Z"
+				}
+			},
+			"size": 16000000,
+			"status": "Good"
+		},
+		{
+			"id": "leonard-lara",
+			"location": {
+				"lat": 53.3957982,
+				"lng": -1.7796298
+			},
+			"name": "Leonard Lara",
+			"schedules": {
+				"now": null,
+				"next": {
+					"service": "DC Low",
+					"start": "2022-01-02T18:00:26.573Z",
+					"end": "2022-01-02T19:00:26.573Z"
+				}
+			},
+			"size": 2500000,
+			"status": "Good"
+		},
+		{
+			"id": "esfir-janina",
+			"location": {
+				"lat": 53.8061236,
+				"lng": -1.6758136
+			},
+			"name": "Esfir Janina",
+			"schedules": {
+				"now": {
+					"service": "DC Low",
+					"start": "2022-01-02T17:00:26.573Z",
+					"end": "2022-01-02T18:00:26.573Z"
+				},
+				"next": {
+					"service": "Dispatch",
+					"start": "2022-01-02T18:00:26.573Z",
+					"end": "2022-01-02T19:00:26.573Z"
+				}
+			},
+			"size": 20000000,
+			"status": "Alert"
+		}
+	]
+}
